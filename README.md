@@ -109,18 +109,6 @@ Data Scientist & ML Engineer with **production experience** in building end-to-e
 
 ---
 
-## 📊 ML Expertise
-
-```
-Classification     ████████████████████  8 projects
-Regression         ████████████████████  7 projects  
-Deep Learning      ████████████          3 projects
-NLP & Text         ████████████          3 projects
-Computer Vision    ████                  1 project
-Time Series        ████                  1 project
-Big Data           ████                  1 project
-```
-
 **Algorithms & Methods:**
 `Gradient Boosting (XGBoost / LightGBM / CatBoost)` · `Random Forest` · `CNN` · `BERT / Transformers` · `Word2Vec / TF-IDF` · `ResNet50` · `Time Series (ARIMA, seasonal decomposition)` · `SHAP explainability` · `Optuna HPO`
 
