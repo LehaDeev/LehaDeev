@@ -67,7 +67,6 @@ Data Scientist & ML Engineer with **production experience** in building end-to-e
 ## 🚀 Featured Projects
 
 ### 📈 [we_trust_in_people](https://github.com/LehaDeev/we_trust_in_people) — Telegram Bot for Algo Trading (MOEX) via Tinkoff Invest API
-> Autonomous ML-powered trading system for Moscow Exchange via Tinkoff Invest API
 
 - **Custom RankEnsemble:** LightGBM (quantile regression, alpha tuned by Optuna) + ExtraTrees (MSE) + HistGradientBoosting (MAE); three distinct loss functions for ensemble diversity; z-score normalization of predictions
 - **Adaptive ensemble weights** via Spearman on OOS val-fold + softmax with temperature
@@ -142,10 +141,17 @@ Data Scientist & ML Engineer with **production experience** in building end-to-e
 
 <div align="center">
 
-![Aleksei's GitHub Stats](https://github-readme-stats-ak4vnlmre-lehadeevs-projects.vercel.app/api?username=LehaDeev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://raw.githubusercontent.com/LehaDeev/LehaDeev/main/profile-summary-cards/profile-details.svg)
 
+<a href="https://github.com/LehaDeev">
+  <img src="https://raw.githubusercontent.com/LehaDeev/LehaDeev/main/profile-summary-cards/repos-per-language.svg" width="49%"/>
+  <img src="https://raw.githubusercontent.com/LehaDeev/LehaDeev/main/profile-summary-cards/most-commit-language.svg" width="49%"/>
+</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=LehaDeev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=en)](https://git.io/streak-stats)
+<a href="https://github.com/LehaDeev">
+  <img src="https://raw.githubusercontent.com/LehaDeev/LehaDeev/main/profile-summary-cards/stats.svg" width="49%"/>
+  <img src="https://raw.githubusercontent.com/LehaDeev/LehaDeev/main/profile-summary-cards/productive-time.svg" width="49%"/>
+</a>
 
 </div>
 
