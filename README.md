@@ -67,6 +67,7 @@ Data Scientist & ML Engineer with **production experience** in building end-to-e
 ## 🚀 Featured Projects
 
 ### 📈 [we_trust_in_people](https://github.com/LehaDeev/we_trust_in_people) — Telegram Bot for Algo Trading (MOEX) via Tinkoff Invest API
+> Autonomous ML-powered trading system for Moscow Exchange via Tinkoff Invest API
 
 - **Custom RankEnsemble:** LightGBM (quantile regression, alpha tuned by Optuna) + ExtraTrees (MSE) + HistGradientBoosting (MAE); three distinct loss functions for ensemble diversity; z-score normalization of predictions
 - **Adaptive ensemble weights** via Spearman on OOS val-fold + softmax with temperature
@@ -141,17 +142,11 @@ Data Scientist & ML Engineer with **production experience** in building end-to-e
 
 <div align="center">
 
-![](https://raw.githubusercontent.com/LehaDeev/LehaDeev/main/profile-summary-cards/profile-details.svg)
+[![](https://raw.githubusercontent.com/LehaDeev/LehaDeev/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<a href="https://github.com/LehaDeev">
-  <img src="https://raw.githubusercontent.com/LehaDeev/LehaDeev/main/profile-summary-cards/repos-per-language.svg" width="49%"/>
-  <img src="https://raw.githubusercontent.com/LehaDeev/LehaDeev/main/profile-summary-cards/most-commit-language.svg" width="49%"/>
-</a>
+[![](https://raw.githubusercontent.com/LehaDeev/LehaDeev/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LehaDeev/LehaDeev/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<a href="https://github.com/LehaDeev">
-  <img src="https://raw.githubusercontent.com/LehaDeev/LehaDeev/main/profile-summary-cards/stats.svg" width="49%"/>
-  <img src="https://raw.githubusercontent.com/LehaDeev/LehaDeev/main/profile-summary-cards/productive-time.svg" width="49%"/>
-</a>
+[![](https://raw.githubusercontent.com/LehaDeev/LehaDeev/main/profile-summary-card-output/tokyonight/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/LehaDeev/LehaDeev/main/profile-summary-card-output/tokyonight/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
