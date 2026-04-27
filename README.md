@@ -66,12 +66,16 @@ Data Scientist & ML Engineer with **production experience** in building end-to-e
 
 ## 🚀 Featured Projects
 
-### 📈 [we_trust_in_people](https://github.com/LehaDeev/we_trust_in_people) — Algorithmic Trading Bot (MOEX)
+### 📈 [we_trust_in_people](https://github.com/LehaDeev/we_trust_in_people) — Telegram Bot for Algo Trading (MOEX) via Tinkoff Invest API
 > Autonomous ML-powered trading system for Moscow Exchange via Tinkoff Invest API
 
-- **ML:** Ensemble of LightGBM + ExtraTrees with Optuna hyperparameter optimization; 52 technical features with per-ticker feature selection; nightly retraining
-- **Finance logic:** Stop-loss with dividend protection, FIFO position accounting, P&L calculation including commissions and taxes
-- **Stack:** `Python` · `LightGBM` · `scikit-learn` · `Optuna` · `TA-Lib` · `aiogram 3` · `SQLAlchemy async` · `PostgreSQL` · `Redis` · `gRPC` · `Docker`
+- **Custom RankEnsemble:** LightGBM (quantile regression, alpha tuned by Optuna) + ExtraTrees (MSE) + HistGradientBoosting (MAE); three distinct loss functions for ensemble diversity; z-score normalization of predictions
+- **Adaptive ensemble weights** via Spearman on OOS val-fold + softmax with temperature
+- **62 technical features** (TA-Lib); per-ticker selection via OOS Permutation Importance → 30–45 features per ticker
+- **Custom WalkForwardSplit** with gap=4 and embargo=4 — eliminates label leakage
+- **HPO metric** — Spearman correlation (Sortino uninformative at 88% negative targets)
+- **Target variable** — continuous net P&L; per-ticker threshold optimization via Optuna
+- **Stack:** `Python` · `aiogram 3` · `LightGBM` · `scikit-learn` · `Optuna` · `TA-Lib` · `SQLAlchemy 2 async` · `PostgreSQL` · `Redis` · `gRPC` · `Docker`
 
 ---
 
@@ -131,6 +135,19 @@ Data Scientist & ML Engineer with **production experience** in building end-to-e
 - 🏅 **Advanced Data Science Specialist** — Yandex Practicum, 2026
 - 🎓 **B.Sc. Electrical Engineering** — Nizhny Novgorod State Technical University (NNSTU), 2012  
   *Faculty of Automation & Electromechanics*
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![Aleksei's GitHub Stats](https://github-readme-stats-ak4vnlmre-lehadeevs-projects.vercel.app/api?username=LehaDeev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=LehaDeev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=en)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
